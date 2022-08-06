@@ -3,7 +3,9 @@ api para criptomoedas altenativas cuja base seja do codigo BitcoinECDSA (https:/
 
 
 ..
-api adaptada para moeda JUNDCOIN (https://jundcoin.com.br/)
+api adaptada para moeda JUNDCOIN (https://jundcoin.com.br/)!
+- a Mesma pode ser alterada para qual quer criptomoeda cuja base seja BTC, alterando tais dados no bitcoinECDSA, quais são aquelas sementes que criam/geram os endereço.
+
 
 
 guia de uso:
