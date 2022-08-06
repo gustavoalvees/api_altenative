@@ -1,5 +1,5 @@
 # api_altenative
-api para criptomoedas altenativas cuja base seja do codigo BitcoinECDSA (https://github.com/BitcoinPHP/BitcoinECDSA.php)
+api para criptomoedas altenativas cuja base seja do codigo BitcoinECDSA (https://github.com/BitcoinPHP/BitcoinECDSA.php), junto com jsonRPCClient ( https://github.com/tomgross/jsonrpcphp/blob/master/includes/jsonRPCClient.php )
 
 
 ..
